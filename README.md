@@ -12,8 +12,8 @@
   <img align="center" alt="Vcs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vcs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Vcs-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Vcs-Flutterflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vcs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutterflow/flutterflow-original.svg">
+  <img align="center" alt="Vcs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vcs-Flutterflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutterflow/flutterflow-original.svg">
 </div>
   
   ##
